@@ -30,3 +30,26 @@ Les bibliothèques suivantes sont utilisées :
 Assurez-vous d'installer les dépendances dans un environnement virtuel avec la commande :
 ```bash
 pip install face_recognition opencv-python-headless numpy smbus2
+Installation et utilisation
+Cloner ce dépôt ou copier les fichiers du projet sur le Raspberry Pi.
+
+Ajouter les images des utilisateurs autorisés dans le dossier known_faces. Les images doivent être claires et contenir un seul visage.
+
+Connecter le matériel selon les schémas de câblage fournis.
+
+Lancer le script principal :
+
+bash
+Copier
+Modifier
+python main.py
+Le système démarre et est prêt à détecter les mouvements et à effectuer la reconnaissance faciale.
+
+Structure des fichiers
+main.py : Script principal du projet.
+
+known_faces/ : Dossier contenant les images des visages autorisés.
+
+README.txt : Ce fichier, expliquant le projet.
+
+requirements.txt : Liste des dépendances Python nécessaires
