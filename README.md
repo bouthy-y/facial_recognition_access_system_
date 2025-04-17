@@ -16,7 +16,7 @@ Ce projet propose un système de contrôle d'accès innovant basé sur la reconn
 - Servo-moteur
 - LEDs (verte et rouge)
 - Écran LCD 16x2 avec interface I2C
-- Caméra compatible Raspberry Pi
+- Caméra Microsoft-HD 3000
 - Câblage et alimentation nécessaires
 
 ## Dépendances
