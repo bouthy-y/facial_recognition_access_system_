@@ -1,5 +1,4 @@
 # facial_recognition_access_system_
-# Facial Recognition Access System
 
 ## Description
 Ce projet propose un système de contrôle d'accès innovant basé sur la reconnaissance faciale. Utilisant un Raspberry Pi et divers composants électroniques, le système garantit un contrôle sécurisé et automatisé des accès.
